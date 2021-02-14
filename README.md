@@ -10,3 +10,5 @@ separate data set to train and test; </br>
 tried LinearRegression, LassoCV, RidgeCV, ElasticNetCV; </br>
 Note: predicted results are not ideal, RMSE ~ 0.2 </br>
 
+v1 </br>
+coming soon, woohoo!
